@@ -1,7 +1,7 @@
 
 ## Article Posting Website
 
->T his is a prototype of an article posting website that is written on PHP using Laravel framework. While Laravel is the core of its backend, the UI design was got from the SimpleWork template and modified. The website uses MySQL database to store/access/modify articles through Laravel framework. Additionally, articles are stored with tags to provide more narrow search. 
+>This is a prototype of an article posting website that is written on PHP using Laravel framework. While Laravel is the core of its backend, the UI design was got from the SimpleWork template and modified. The website uses MySQL database to store/access/modify articles through Laravel framework. Additionally, articles are stored with tags to provide more narrow search. 
 
 ## Accessing articles through the list or tags
 
@@ -18,14 +18,7 @@
 
 
 
-<p align="center"><img src="https://res.cloudinary.com/dtfbvvkyp/image/upload/v1566331377/laravel-logolockup-cmyk-red.svg" width="400"></p>
 
-<p align="center">
-<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/d/total.svg" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
-</p>
 
 ## About Laravel
 
