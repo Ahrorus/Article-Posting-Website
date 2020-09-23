@@ -9,11 +9,11 @@
 
 ## Editing an article
 
-![](recording_1.gif)
+![](recording_2.gif)
 
 ## Creating a new article
 
-![](recording_1.gif)
+![](recording_3.gif)
 
 
 
